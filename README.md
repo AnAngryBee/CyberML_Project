@@ -18,7 +18,7 @@ For the information about how to run our code, please refer to our comments with
 
 ## Environment
 
-tensorflow
-keras
-h5py
-tensorflow_model_optimization
+* tensorflow
+* keras
+* h5py
+* tensorflow_model_optimization
