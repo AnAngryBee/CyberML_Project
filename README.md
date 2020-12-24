@@ -22,3 +22,5 @@ For the information about how to run our code, please refer to our comments with
 * keras
 * h5py
 * tensorflow_model_optimization
+
+P.S. No need to download data and models from our repo as we download them in our code directly from gdrive.
