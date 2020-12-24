@@ -1,7 +1,7 @@
 # CyberML_Project
 
 Group Members:
-* Yujun Kong (yk2272)
+* Yujun Kong (yk2211)
 * Yuan Sha (ys3985)
 * Tianshu Wang (tw2119)
 * Xiaohan Chen (xc1598)
