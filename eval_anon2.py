@@ -9,7 +9,7 @@ import tensorflow_model_optimization as tfmot
 import tensorflow as tf
 
 bad_net = "./anonymous_2_bd_net.h5"
-new_net = "./models/anonymous_2_new.h5"
+new_net = "./models/anon2_new.h5"
 img_filename = sys.argv[1]
 
 def data_preprocess(x_data):
