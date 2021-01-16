@@ -20,7 +20,7 @@ In eval script, we only provide pruning method available for testing. Please ref
 
 To run our code, you need to firstly move corresponding bad nets in the root directory of our repo. Then run:
 
-python3 <evaluation file> <image relative filename>
+> python [evaluation file] [image relative filename]
 
 ## Environment
 
