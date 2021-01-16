@@ -29,5 +29,3 @@ To run our code, you need to firstly move corresponding bad nets in the root dir
 * h5py
 * tensorflow_model_optimization
 * numpy
-
-P.S. No need to download data and models from our repo as we download them in our code directly from gdrive.
