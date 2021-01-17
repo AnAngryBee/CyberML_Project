@@ -7,6 +7,8 @@ import keras.backend as K
 from keras import initializers
 import tensorflow_model_optimization as tfmot
 import tensorflow as tf
+from PIL import Image
+
 
 bad_net = "./anonymous_1_bd_net.h5"
 new_net = "./models/anon1_new.h5"
