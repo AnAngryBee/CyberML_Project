@@ -7,6 +7,8 @@ import keras.backend as K
 from keras import initializers
 import tensorflow_model_optimization as tfmot
 import tensorflow as tf
+from PIL import Image
+
 
 bad_net =  "./multi_trigger_multi_target_bd_net.h5"
 new_net = "./models/multi_trigger_multi_new.h5"
