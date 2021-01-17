@@ -18,7 +18,7 @@ In eval script, we only provide pruning method available for testing. Please ref
 
 ## How to Run
 
-To run our code, you need to firstly move corresponding bad nets in the root directory of our repo. Then run:
+To run our code, you need to firstly move corresponding [badnets](https://drive.google.com/drive/folders/13o2ybRJ1BkGUvfmQEeZqDo1kskyFywab?usp=sharing) in the root directory of our repo. Then run:
 
 > python [evaluation file] [image relative filename]
 
